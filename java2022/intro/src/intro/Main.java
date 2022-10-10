@@ -3,7 +3,7 @@ package intro;
 public class Main {
 
 	public static void main(String[] args) {
-		
+		w
 		//degisken isimleri java'da camel case yazilir
 		System.out.println("Hello World");
 		String metin="İlginizi çekebilir";
